@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">RiceBot</string>
+    <string name="scroll_default_text">Rice is one of the most widely consumed staple foods in the world, particularly in Asia where it is a dietary staple for a large portion of the population. It is a cereal grain that belongs to the grass species Oryza sativa or Oryza glaberrima. Rice is highly valued for its versatility, nutritional value, and ability to provide sustenance to billions of people.
+
+Cultivated for thousands of years, rice has become an integral part of various cuisines and cultural traditions around the globe. It is available in different varieties, each with its own unique characteristics, flavors, and cooking properties. Some popular types of rice include Arborio, Basmati, Jasmine, and many more.
+
+Rice is a rich source of carbohydrates, which serves as a vital energy source for the body. It also contains essential amino acids, vitamins, minerals, and dietary fiber. Depending on the variety, rice can have varying levels of stickiness and texture, making it suitable for a wide range of dishes such as stir-fries, curries, pilafs, sushi, and desserts.</string>
+    <string name="welcome_message">Welcome to the Rice App! Start by selecting an image to predict the rice variety.
+\nRice is one of the most widely consumed staple foods in the world, particularly in Asia where it is a dietary staple for a large portion of the population.\n\nIt is a cereal grain that belongs to the grass species Oryza sativa or Oryza glaberrima. \n\nRice is highly valued for its versatility, nutritional value, and ability to provide sustenance to billions of people.
+        \n\nCultivated for thousands of years, rice has become an integral part of various cuisines and cultural traditions around the globe. \n\nIt is available in different varieties, each with its own unique characteristics, flavors, and cooking properties. \n\nSome popular types of rice include Arborio, Basmati, Jasmine, and many more.
+        \n\nRice is a rich source of carbohydrates, which serves as a vital energy source for the body. \n\nIt also contains essential amino acids, vitamins, minerals, and dietary fiber. Depending on the variety, rice can have varying levels of stickiness and texture, making it suitable for a wide range of dishes such as stir-fries, curries, pilafs, sushi, and desserts.</string>
+
+
+
+
+
+</resources>
+
+
